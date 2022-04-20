@@ -5,8 +5,9 @@
   - Mechatronics assembly line high speed sorting machine done in C and embedded
   - Cryptography Cryptanalysis attack on an SPN cipher in Python
   - Website programming and maintance in HTML, CSS, Bootstrap and Javascript 
+- Upcoming Projects:
+  - Build a smart contract on Etherium with Solidity
+  - Build a toy machine learning model with Python using Tensorflow
 - Future Goals: 
   - Get more exposure to more high level standard programming languages like Python, and JS 
-  - Develop a non-trivial ML model in Python
-  - Gain a better understanding of smart contracts built on the Etherium
 - 📫 The best way to reach me is by email, which is abrodieg@gmail.com
