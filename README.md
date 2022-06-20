@@ -5,8 +5,9 @@
   - Mechatronics assembly line high speed sorting machine done in C and embedded
   - Cryptography Cryptanalysis attack on an SPN cipher in Python
   - Website programming and maintance in HTML, CSS, and Bootstrap
-- Upcoming Projects:
+- Upcoming/Current Projects:
   - Build a smart contract on Etherium with Solidity
+  - Build an android/iOS app in Flutter
   - Build a toy machine learning model with Python using Tensorflow
 - Future Goals: 
   - Get more exposure to more high level standard programming languages like Python, and JS 
