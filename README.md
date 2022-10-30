@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @brodiegould
-- I’m consumed by an interest that lies at intersection of technology and finance
+- My interests lie at intersection of technology and finance
 - I'm currently a 4th year student studying electrical engineering at the University of Victoria
 - Past Projects:
-  - Mechatronics assembly line high speed sorting machine done in C and embedded
-  - Cryptography Cryptanalysis attack on an SPN cipher in Python
-  - Website programming and maintance in HTML, CSS, and Bootstrap
-- Upcoming/Current Projects:
-  - Build a smart contract on Etherium with Solidity
-  - Build an android/iOS app in Flutter
-  - Build a toy machine learning model with Python using Tensorflow
-- Future Goals: 
-  - Get more exposure to more high level standard programming languages like Python, and JS 
-- 📫 The best way to reach me is by email, which is abrodieg@gmail.com
+  - Cryptography Cryptanalysis attack on an SPN cipher in **Python**
+  -  Silent Auction Smart Contract in **Solidity**
+  - Mechatronics assembly line high speed sorting machine done in **embedded C**
+  - Website programming and maintance in **HTML**, **CSS**, and **Bootstrap**
+- Future Projects: 
+  - JS
+- 📫 The best way to reach me is by email: abrodieg@gmail.com
