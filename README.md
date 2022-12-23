@@ -7,5 +7,6 @@
   - Mechatronics assembly line high speed sorting machine done in **embedded C**
   - Website programming and maintance in **HTML**, **CSS**, and **Bootstrap**
 - Future Projects: 
-  - JS
+  - JavaScript
+  - Real Estate Valuation Dashboard (Python)
 - 📫 The best way to reach me is by email: abrodieg@gmail.com
