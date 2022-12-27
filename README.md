@@ -7,5 +7,5 @@
   - Mechatronics assembly line high speed sorting machine done in **embedded C**
   - Website programming and maintance in **HTML**, **CSS**, and **Bootstrap**
 - Future Projects: 
-  - Real Estate Valuation Dashboard (Python/Javascript)
+  - Real Estate Valuation Dashboard (**Python/Javascript**)
 - 📫 The best way to reach me is by email: brodie@brodiegould.com
