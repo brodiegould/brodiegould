@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @brodiegould
 - My interests lie at intersection of technology and finance
+- [Resume]([url](https://github.com/brodiegould/brodiegould-website/blob/6252557c32ba887ba1c9248bb5ff93edbffae08e/docs/resume.pdf))
 - I'm currently a 4th year student studying electrical engineering at the University of Victoria
 - Past Projects:
   - Cryptography Cryptanalysis attack on an SPN cipher in **Python**
