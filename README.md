@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @brodiegould
-- My interests lie at intersection of technology and finance
+- My interests lie at intersection of cybersecurity, technology and finance
 - [Resume](https://github.com/brodiegould/brodiegould-website/blob/6252557c32ba887ba1c9248bb5ff93edbffae08e/docs/resume.pdf)
-- I'm currently a 4th year student studying electrical engineering at the University of Victoria
+- I'm currently a 4th year student studying electrical engineering at the University of Victoria graduating in April 2023
 - Past Projects:
   - Cryptography Cryptanalysis attack on an SPN cipher in **Python**
-  -  Silent Auction Smart Contract in **Solidity**
-  - Mechatronics assembly line high speed sorting machine done in **embedded C**
+  - Silent Auction Smart Contract in **Solidity**
+  - Mechatronics assembly line high speed sorting machine done in **Embedded C**
+  - Embedded Smoking Cessation Device in **Embedded C**
   - Website programming and maintance in **HTML**, **CSS**, and **Bootstrap**
 - Future Projects: 
+  - Applied Computer Vision Classification (**Python**)
+  - Pentest Lab Environment
   - Real Estate Valuation Dashboard (**Python/Javascript**)
-- 📫 The best way to reach me is by email: brodie@brodiegould.com
+- 📫 The best way to reach me is by email: b@brodiegould.com
