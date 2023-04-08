@@ -3,12 +3,12 @@
 - [Resume](https://github.com/brodiegould/brodiegould-website/blob/6252557c32ba887ba1c9248bb5ff93edbffae08e/docs/resume.pdf)
 - I'm currently a 4th year student studying electrical engineering at the University of Victoria graduating in April 2023
 - Past Projects:
-  - Cryptography Cryptanalysis attack on an SPN cipher in **Python**
+  - [Cryptography Cryptanalysis attack on an SPN cipher in **Python**](https://github.com/brodiegould/Applied-Cryptography-Differential-Cryptanalysis)
   - Applied Computer Vision Classification (**Python**)
-  - Silent Auction Smart Contract in **Solidity**
-  - Mechatronics assembly line high speed sorting machine done in **Embedded C**
-  - Embedded Smoking Cessation Device in **Embedded C**
-  - Website programming and maintance in **HTML**, **CSS**, and **Bootstrap**
+  - [Silent Auction Smart Contract in **Solidity**](https://github.com/brodiegould/Blind-Auction-Smart-Contract)
+  - [Mechatronics assembly line high speed sorting machine done in **Embedded C**](https://github.com/brodiegould/Embedded-Sorting-Project)
+  - [Embedded Smoking Cessation Device in **Embedded C**]
+  - [Website programming and maintance in **HTML**, **CSS**, and **Bootstrap**](https://github.com/brodiegould/brodiegould-website)
 - Future Projects: 
   - Website Revamp
   - Real Estate Valuation Dashboard (**Python/Flask/Frontend**)
