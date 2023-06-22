@@ -4,7 +4,7 @@
 - I recently graduated a Bachelors of Electrical Engineering from the University of Victoria (April 2023)
 - Past Projects:
   - [Cryptography Cryptanalysis attack on an SPN cipher in **Python**](https://github.com/brodiegould/Applied-Cryptography-Differential-Cryptanalysis)
-  - Applied Computer Vision Classification (**Python**)
+  - [Applied Computer Vision Classification (**Python**)](https://github.com/brodiegould/Computer-Vision-Methods-for-Object-Detection-in-Noisy-Environments)
   - [Silent Auction Smart Contract in **Solidity**](https://github.com/brodiegould/Blind-Auction-Smart-Contract)
   - [Mechatronics assembly line high speed sorting machine done in **Embedded C**](https://github.com/brodiegould/Embedded-Sorting-Project)
   - [Embedded Smoking Cessation Device in **Embedded C**]
