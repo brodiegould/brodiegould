@@ -7,7 +7,7 @@
   - [Applied Computer Vision Classification (**Python**)](https://github.com/brodiegould/Computer-Vision-Methods-for-Object-Detection-in-Noisy-Environments)
   - [Silent Auction Smart Contract in **Solidity**](https://github.com/brodiegould/Blind-Auction-Smart-Contract)
   - [Mechatronics assembly line high speed sorting machine done in **Embedded C**](https://github.com/brodiegould/Embedded-Sorting-Project)
-  - [Embedded Smoking Cessation Device in **Embedded C**]
+  - Embedded Smoking Cessation Device in **Embedded C**
   - [Website programming and maintance in **HTML**, **CSS**, and **Bootstrap**](https://github.com/brodiegould/brodiegould-website)
 - Future Projects: 
   - Website Revamp
