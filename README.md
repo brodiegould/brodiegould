@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @brodiegould
-- My interests lie at intersection of cybersecurity, technology and finance
+- My interests lie at the intersection of cybersecurity, technology and finance
 - [Resume](https://github.com/brodiegould/brodiegould-website/blob/6252557c32ba887ba1c9248bb5ff93edbffae08e/docs/resume.pdf)
-- I recently graduated a Bachelors of Electrical Engineering from the University of Victoria (April 2023)
+- I recently graduated with a Bachelor of Electrical Engineering from the University of Victoria (April 2023)
 - Past Projects:
   - [Cryptography Cryptanalysis attack on an SPN cipher in **Python**](https://github.com/brodiegould/Applied-Cryptography-Differential-Cryptanalysis)
   - [Applied Computer Vision Classification (**Python**)](https://github.com/brodiegould/Computer-Vision-Methods-for-Object-Detection-in-Noisy-Environments)
   - [Silent Auction Smart Contract in **Solidity**](https://github.com/brodiegould/Blind-Auction-Smart-Contract)
-  - [Mechatronics assembly line high speed sorting machine done in **Embedded C**](https://github.com/brodiegould/Embedded-Sorting-Project)
+  - [Mechatronics assembly line high-speed sorting machine done in **Embedded C**](https://github.com/brodiegould/Embedded-Sorting-Project)
   - Embedded Smoking Cessation Device in **Embedded C**
-  - [Website programming and maintance in **HTML**, **CSS**, and **Bootstrap**](https://github.com/brodiegould/brodiegould-website)
+  - [Website programming and maintenance in **HTML**, **CSS**, and **Bootstrap**](https://github.com/brodiegould/brodiegould-website)
+- Current Project:
+  - Ecosystem for users to share the path they took to learn a skillset in **Django, TailwindCSS, SQLite, JavaScript** 
 - Future Projects: 
-  - Website Revamp
-  - Real Estate Valuation Dashboard (**Python/Flask/Frontend**)
+  - Website Revamp (it needs work)
 - 📫 The best way to reach me is by email: b@brodiegould.com
