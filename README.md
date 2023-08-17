@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brodiegould
 - My interests lie at the intersection of cybersecurity, technology and finance
-- [Resume](https://github.com/brodiegould/brodiegould-website/blob/6252557c32ba887ba1c9248bb5ff93edbffae08e/docs/resume.pdf)
+- [Resume]([https://github.com/brodiegould/brodiegould-website/blob/6252557c32ba887ba1c9248bb5ff93edbffae08e/docs/resume.pdf](https://github.com/brodiegould/brodiegould-website/blob/main/docs/resume.pdf))
 - I recently graduated with a Bachelor of Electrical Engineering from the University of Victoria (April 2023)
 - Past Projects:
   - [Cryptography Cryptanalysis attack on an SPN cipher in **Python**](https://github.com/brodiegould/Applied-Cryptography-Differential-Cryptanalysis)
