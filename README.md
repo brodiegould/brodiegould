@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brodiegould
 - My interests lie at the intersection of cybersecurity, technology and finance
 - [Resume](https://github.com/brodiegould/brodiegould-website/blob/main/docs/resume.pdf)
-- I recently graduated with a Bachelor of Electrical Engineering from the University of Victoria (April 2023)
+- Bachelor of Electrical Engineering, University of Victoria, 2023
 - Past Projects:
   - [Cryptography Cryptanalysis attack on an SPN cipher in **Python**](https://github.com/brodiegould/Applied-Cryptography-Differential-Cryptanalysis)
   - [Applied Computer Vision Classification (**Python**)](https://github.com/brodiegould/Computer-Vision-Methods-for-Object-Detection-in-Noisy-Environments)
