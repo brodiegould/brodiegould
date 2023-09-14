@@ -10,7 +10,7 @@
   - Embedded Smoking Cessation Device in **Embedded C**
   - [Website programming and maintenance in **HTML**, **CSS**, and **Bootstrap**](https://github.com/brodiegould/brodiegould-website)
 - Current Project:
-  - Ecosystem for users to share the path they took to learn a skillset in **Django, TailwindCSS, SQLite, JavaScript** 
+  - Ecosystem for users to share the path they took to learn a skillset and cut through the noise in **Django, TailwindCSS, SQLite, JavaScript** 
 - Future Projects: 
   - Website Revamp (it needs work)
 - 📫 The best way to reach me is by email: b@brodiegould.com
